@@ -1,0 +1,61 @@
+time = 11:02:58.656318, files_count = 5, file_size = 1M, cpu_stat = 1.57 1.29 1.39 7/679 12757
+
+time = 11:04:20.526163, files_count = 5, file_size = 1M, cpu_stat = 1.86 1.36 1.40 12/645 13030
+
+time = 11:04:26.693679, files_count = 5, file_size = 1M, cpu_stat = 2.75 1.55 1.46 7/682 13604
+
+time = 11:04:32.216326, files_count = 5, file_size = 1M, cpu_stat = 3.17 1.66 1.50 2/682 14134
+
+time = 11:07:51.288276, files_count = 5, file_size = 1M, cpu_stat = 1.61 1.45 1.43 5/672 14567
+
+time = 11:07:56.912691, files_count = 5, file_size = 1M, cpu_stat = 1.88 1.51 1.45 5/673 15098
+
+time = 11:08:02.695433, files_count = 5, file_size = 1M, cpu_stat = 1.81 1.50 1.45 4/669 15629
+
+time = 11:09:43.517159, files_count = 5, file_size = 1M, cpu_stat = 1.66 1.60 1.50 3/671 16108
+
+time = 11:09:49.677600, files_count = 5, file_size = 1M, cpu_stat = 1.63 1.60 1.50 4/671 16726
+
+time = 11:09:55.981768, files_count = 5, file_size = 1M, cpu_stat = 1.90 1.65 1.52 3/664 17344
+
+time = 11:13:55.604669, files_count = 5, file_size = 1M, cpu_stat = 2.74 2.15 1.75 6/675 18078
+
+time = 11:14:08.165112, files_count = 5, file_size = 1M, cpu_stat = 2.95 2.21 1.77 2/666 18792
+
+time = 11:20:26.170189, files_count = 5, file_size = 1M, cpu_stat = 2.37 2.00 1.81 10/677 19319
+
+time = 11:20:31.551608, files_count = 5, file_size = 1M, cpu_stat = 2.58 2.05 1.83 4/676 19849
+
+time = 11:20:38.685485, files_count = 5, file_size = 1M, cpu_stat = 2.69 2.09 1.84 2/671 20556
+
+time = 11:20:47.356262, files_count = 5, file_size = 1M, cpu_stat = 3.20 2.22 1.88 4/662 21438
+
+time = 11:20:56.473714, files_count = 5, file_size = 1M, cpu_stat = 3.63 2.34 1.93 4/664 22323
+
+time = 11:21:03.706518, files_count = 5, file_size = 1M, cpu_stat = 3.66 2.37 1.94 2/664 23032
+
+time = 11:21:08.746155, files_count = 5, file_size = 1M, cpu_stat = 3.93 2.45 1.97 9/664 23518
+
+time = 11:21:14.400924, files_count = 5, file_size = 1M, cpu_stat = 4.42 2.60 2.02 2/662 24092
+
+time = 11:21:16.468586, files_count = 5, file_size = 1M, cpu_stat = 4.42 2.60 2.02 2/663 24271
+
+time = 11:21:23.016833, files_count = 5, file_size = 1M, cpu_stat = 4.46 2.64 2.04 7/659 24757
+
+time = 11:23:41.877913, files_count = 5, file_size = 1M, cpu_stat = 2.79 2.35 2.00 7/676 25232
+
+time = 11:23:48.327906, files_count = 5, file_size = 1M, cpu_stat = 2.80 2.36 2.00 10/678 25765
+
+time = 11:23:56.362166, files_count = 5, file_size = 1M, cpu_stat = 3.74 2.57 2.08 8/666 26475
+
+time = 11:24:05.936697, files_count = 5, file_size = 1M, cpu_stat = 4.02 2.67 2.12 4/665 27357
+
+time = 11:24:15.025144, files_count = 5, file_size = 1M, cpu_stat = 4.25 2.77 2.15 4/664 28239
+
+time = 11:24:22.340798, files_count = 5, file_size = 1M, cpu_stat = 4.71 2.89 2.19 8/664 28945
+
+time = 11:24:27.650360, files_count = 5, file_size = 1M, cpu_stat = 5.13 3.00 2.24 5/664 29431
+
+time = 11:24:33.796362, files_count = 5, file_size = 1M, cpu_stat = 5.04 3.02 2.25 7/665 30006
+
+time = 11:24:36.022838, files_count = 5, file_size = 1M, cpu_stat = 5.36 3.12 2.28 2/665 30184
